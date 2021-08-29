@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "postgres": "https://deno.land/x/postgresql/mod.js"
+  }
+}
